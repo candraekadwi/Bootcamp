@@ -1,0 +1,15 @@
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.csproj.AssemblyReference.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.AssemblyInfoInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.AssemblyInfo.cs
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.csproj.CoreCompileInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\bin\Debug\net7.0\projectempat.exe
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\bin\Debug\net7.0\projectempat.deps.json
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\bin\Debug\net7.0\projectempat.runtimeconfig.json
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\bin\Debug\net7.0\projectempat.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\bin\Debug\net7.0\projectempat.pdb
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\refint\projectempat.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.pdb
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\projectempat.genruntimeconfig.cache
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectempat\obj\Debug\net7.0\ref\projectempat.dll

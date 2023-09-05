@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectkedua\\projectkedua.csproj": {}
+    "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectketiga\\projectketiga.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectkedua\\projectkedua.csproj": {
+    "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectketiga\\projectketiga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectkedua\\projectkedua.csproj",
-        "projectName": "projectkedua",
-        "projectPath": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectkedua\\projectkedua.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectketiga\\projectketiga.csproj",
+        "projectName": "projectketiga",
+        "projectPath": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectketiga\\projectketiga.csproj",
         "packagesPath": "C:\\Users\\Batch 5\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectkedua\\obj\\",
+        "outputPath": "c:\\Users\\Batch 5\\Documents\\bootcamp_candra eka dwi warsa\\projectketiga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 5\\AppData\\Roaming\\NuGet\\NuGet.Config"

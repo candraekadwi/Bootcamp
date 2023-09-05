@@ -1,13 +1,19 @@
-﻿using Cat;
+﻿using Hewan;
 
 class Program
 {
 	static void Main()
 	{
-		cat cibi = new cat();
-		cibi.meow();
-		cat burhan = new cat();
-		burhan.Jump();
+		Cat cibi = new Cat("sibi", "red", 3);
+		Console.WriteLine(cibi.name);
+		Cat burhan = new Cat("burhan", "blue", 4);
+		
+		Cat susi = new Cat();
+		
+		cibi.Meow();
+		cibi.Meow("arrrhhg");
+		cibi.Meow(3);
+		
 		
 	}
 }

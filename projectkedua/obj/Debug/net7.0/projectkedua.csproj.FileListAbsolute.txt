@@ -1,0 +1,15 @@
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.csproj.AssemblyReference.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.AssemblyInfoInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.AssemblyInfo.cs
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.csproj.CoreCompileInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\bin\Debug\net7.0\projectkedua.exe
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\bin\Debug\net7.0\projectkedua.deps.json
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\bin\Debug\net7.0\projectkedua.runtimeconfig.json
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\bin\Debug\net7.0\projectkedua.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\bin\Debug\net7.0\projectkedua.pdb
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\refint\projectkedua.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.pdb
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\projectkedua.genruntimeconfig.cache
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectkedua\obj\Debug\net7.0\ref\projectkedua.dll

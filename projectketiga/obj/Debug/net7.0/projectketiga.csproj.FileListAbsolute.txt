@@ -1,0 +1,15 @@
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.csproj.AssemblyReference.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.AssemblyInfoInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.AssemblyInfo.cs
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.csproj.CoreCompileInputs.cache
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\bin\Debug\net7.0\projectketiga.exe
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\bin\Debug\net7.0\projectketiga.deps.json
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\bin\Debug\net7.0\projectketiga.runtimeconfig.json
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\bin\Debug\net7.0\projectketiga.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\bin\Debug\net7.0\projectketiga.pdb
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\refint\projectketiga.dll
+C:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.pdb
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\projectketiga.genruntimeconfig.cache
+c:\Users\Batch 5\Documents\bootcamp_candra eka dwi warsa\projectketiga\obj\Debug\net7.0\ref\projectketiga.dll
