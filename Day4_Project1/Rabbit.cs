@@ -2,21 +2,21 @@ namespace Day4_Project1;
 
 public class Rabbit:Animal
 {
-	public string name;
-	public int age;
+	private string _name;
+	private int _age;
 	public Rabbit(string name, int age)
 	{
-		this.name = name;
-		this.age = age;
+		this._name = name;
+		this._age = age;
 	}
 	
 	public override string Name()
 	{
-		return name;
+		return _name;
 	}
 	public override int Age()
 	{
-		return age;
+		return _age;
 	}
     public override void Info()
     {
