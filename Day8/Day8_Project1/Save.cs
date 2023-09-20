@@ -22,11 +22,11 @@ public class Save
 	public void ShowData()
 	{
 		Console.WriteLine("\n Show Data...");
-		IEnumerator iterator = simpan.GetEnumerator();
-		while (iterator.MoveNext())
-		{
-			Console.WriteLine(iterator.Current);
-		}
+		// IEnumerator iterator = simpan.GetEnumerator();
+		// while (iterator.MoveNext())
+		// {
+		// 	Console.WriteLine(iterator.Current);
+		// }
 		foreach (KeyValuePair<string, int> x in simpan)
 		{
 			Console.WriteLine($"Name: {x.Key} , Age: {x.Value} ");
